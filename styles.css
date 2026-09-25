@@ -12,18 +12,73 @@ body > header{
     display: flex;
 }
 
-.link-1 {
-    padding-right: 20px;
+.btn {
+    background-color: #3882F6;
 }
-.link-2 {
 
-}
-.link-3 {
-
+.placeholder {
+    width: 70%;
+    height: auto;
 }
 
 .headerLink {
     position: absolute;
     right: 0;
     display: flex;
+}
+
+.heroSection {
+    display: flex;
+}
+
+.hero {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.info-heading {
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.pict {
+    display: flex;
+    margin: 20px;
+}
+
+.cobain {
+    height: auto;
+    width: 80%;
+}
+
+.grohl {
+    height: auto;
+    width: 80%;
+}
+
+.novoselic {
+    height: auto;
+    width: 80%;
+}
+.quote {
+    background-color: #E5E7EB;
+}
+
+.text-area {
+    font-weight: 300;
+    font-style: italic;
+    margin: 20px;
+}
+
+.play {
+    display: flex;
+    margin: 20px;
+}
+
+.call {
+    text-align: center;
+    display: flex;
+    background-color:  #3882F6;
+    border-radius: 3px;
 }
