@@ -11,3 +11,19 @@ body > header{
 .header{
     display: flex;
 }
+
+.link-1 {
+    padding-right: 20px;
+}
+.link-2 {
+
+}
+.link-3 {
+
+}
+
+.headerLink {
+    position: absolute;
+    right: 0;
+    display: flex;
+}
